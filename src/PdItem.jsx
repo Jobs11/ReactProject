@@ -1,6 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-import Categories from "./Components/Categories";
 import { useParams } from "react-router-dom";
 
 const PdItemBlock = styled.div`
